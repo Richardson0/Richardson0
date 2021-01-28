@@ -6,7 +6,7 @@
 
 🌎"Everything that arrives, always arrives for some reason."
 
-### about me🧑‍💻
+### About me🧑‍💻
 
   🆔 Brisanet Telecommunications intern
   
