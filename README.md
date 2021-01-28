@@ -4,16 +4,13 @@
 
 ✦ Future Front-end
 
-#### 🌎"Everything that arrives, always arrives for some reason."
+🌎"Everything that arrives, always arrives for some reason."
 
-	🌐 Brisanet Telecommunications intern
-	💠 Studying JavaScript
-	💠 Technology and Programming
-
-  
-Where to find me 👇
-
-[Instagram](https://www.instagram.com/gessyell/)
+  🆔 Brisanet Telecommunications intern
+  🆔 Studying JavaScript
+  🆔 Technology and Programming
+  🆔 Where to find me 👇
+  [Instagram](https://www.instagram.com/gessyell/)
 
 ### Linguagens/Ferramentas 🧑‍💻
 
